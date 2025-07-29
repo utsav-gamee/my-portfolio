@@ -365,7 +365,7 @@ Please change the parent <Route path="${z}"> to <Route path="${z==="/"?"*":`${z}
   @media screen and (max-width: 768px) {
     display: block;
   }
-`;function g2(){return Z.jsx(A2,{children:Z.jsxs("ul",{children:[Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://www.linkedin.com/in/utsav-gamee-5822a81b8/",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(Cv,{})})}),Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://github.com/Utsav-Gamee-16",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(Nv,{})})}),Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://www.instagram.com/utsav_gamee/",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(jv,{})})})]})})}const b2=bt.div`
+`;function g2(){return Z.jsx(A2,{children:Z.jsxs("ul",{children:[Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://www.linkedin.com/in/utsav-gamee-5822a81b8/",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(Cv,{})})}),Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://github.com/utsav-gamee",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(Nv,{})})}),Z.jsx("li",{className:"item",children:Z.jsx("a",{href:"https://www.instagram.com/utsav_gamee/",target:"_blank",rel:"noopener noreferrer",children:Z.jsx(jv,{})})})]})})}const b2=bt.div`
   margin: 5rem 0;
 `,S2=bt.div`
   display: flex;
